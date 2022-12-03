@@ -12,11 +12,11 @@ export default function() {
         <div className="text-[2.5vw] tracking-widest font-bold font-rajdhani"> 4:00PM </div>
         <div className="text-[2.5vw] tracking-widest font-rajdhani">CEREMONY</div>
         <div className="text-[2.5vw] tracking-widest font-bold font-rajdhani"> 4:30PM </div>
-        <div className="text-[2.5vw] tracking-widest font-rajdhani">COCKTAIL HOUR</div>
+        <div className="text-[2.5vw] tracking-widest font-rajdhani">PHOTO</div>
         <div className="text-[2.5vw] tracking-widest font-bold font-rajdhani"> 5:30PM </div>
+        <div className="text-[2.5vw] tracking-widest font-rajdhani">TOAST</div>
+        <div className="text-[2.5vw] tracking-widest font-bold font-rajdhani"> 6:00PM </div>
         <div className="text-[2.5vw] tracking-widest font-rajdhani">DINNER</div>
-        <div className="text-[2.5vw] tracking-widest font-bold font-rajdhani"> 6:30PM </div>
-        <div className="text-[2.5vw] tracking-widest font-rajdhani">CAKE CUTTING</div>
         <div className="text-[2.5vw] tracking-widest font-bold font-rajdhani"> 7:00PM </div>
         <div className="text-[2.5vw] tracking-widest font-rajdhani">PARTY</div>
         <div className="text-[2.5vw] tracking-widest font-bold font-rajdhani"> 9:00PM </div>
